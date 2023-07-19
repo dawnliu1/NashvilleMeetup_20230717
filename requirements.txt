@@ -1,0 +1,12 @@
+## Non-version-specific
+transformers
+evaluate
+datasets
+jupyter
+scikit-learn
+numpy
+torch
+torchvision
+torchaudio
+
+## Version-specific
